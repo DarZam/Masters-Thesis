@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed Jul 10 21:09:41 2024]
+[!
+>Data file = phareta_fidei_10.nex
+>Neighbor-joining search settings:
+>  Ties (if encountered) will be broken systematically
+>  Distance measure = mean character difference
+>  All characters have equal weight
+>  (Tree is unrooted)
+]
+tree 'PAUP_1' = [&U] (Brno_Rokycany,((((Erfurt_Erfurt_13331400,(Rome_Wien,Rouen)),Wien_Lilienveld),Graz_Seckau),(Klosterneuburg_Krems,Kremsmunste_SteinbeiKrems)),(Munich_Raitenbuch,Wien_Essingen));
+End;

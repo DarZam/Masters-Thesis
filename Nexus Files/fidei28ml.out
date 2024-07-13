@@ -1,0 +1,45 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Fri Jul 12 01:20:13 2024]
+[!
+>Data file = phareta_fidei_28.nex
+>Heuristic search settings:
+>  Optimality criterion = likelihood
+>    All characters have equal weight
+>    Likelihood settings:
+>                               Data type = standard
+>                       Exchangeabilities = Poisson/proportional model (OneST)
+>                       State frequencies = empirical: A=0.466543 B=0.376436 C=0.116339 D=0.0267506 E=0.00748425 F=0.00414969 G=0.000741015
+>                                                      H=0.000666914 I=0.000815117 J=7.41015e-005
+>          Proportion of invariable sites = none
+>                 Rates at variable sites = equal
+>
+>      Number of distinct data patterns under this model = 359
+>      Molecular clock not enforced
+>      Starting branch lengths obtained using Rogers-Swofford approximation method
+>      Trees with approximate log likelihoods 5% or further from the target score are rejected without additional iteration
+>      Branch-length optimization = one-dimensional Newton-Raphson with pass limit=20, tolerance=1e-007
+>      Likelihood calculations performed in single precision
+>      Vector processing disabled (number of states does not map appropriately to vector architecture)
+>      Using standard Felsenstein pruning for computing likelihoods
+>      Conditional-likelihood rescaling threshold = 1e-020
+>
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: as-is
+>    Number of trees held at each step = 1
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Branches collapsed (creating polytomies) if branch length is less than or equal to 1e-008
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 5795
+>  Score of best tree(s) found = 4926.390
+>  Number of trees retained = 1
+>  Time used = 00:03:19 (CPU time = 00:01:45.0)
+]
+tree 'PAUP_1' = [&U] (Bamberg_Bamberg,(Berlin_Sulczmatt,((((((((Berlin_Trier,(London_Koln,Trier_Trier_78r95v)),Koln_Koln),(Erfurt_Erfurt_13331400,Erfurt_Erfurt_1401)),((Madrid_Zaragoza,Rome_Wien),Rouen)),(Graz_Seckau,Trier_Trier_211v_228r)),Graz_Murz),(Wien_812,Wien_Lilienveld)),(Brno_Rokycany,(Klosterneuburg_Krems,((Kremsmunster_SteinbeiKrems,Munich_Raitenbuch),Wien_Wien))),(Mainz_Mainz,Wien_Essingen))),((((CeskeBudejovice,Prage_XB11),Wien_4396),Seitenstetten),Prague_IB7));
+End;

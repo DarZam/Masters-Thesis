@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Fri Jul 12 01:14:05 2024]
+[!
+>Data file = phareta_fidei_28.nex
+>Neighbor-joining search settings:
+>  Ties (if encountered) will be broken systematically
+>  Distance measure = mean character difference
+>  All characters have equal weight
+>  (Tree is unrooted)
+]
+tree 'PAUP_1' = [&U] (Bamberg_Bamberg,((((Berlin_Sulczmatt,((((((((Berlin_Trier,Koln_Koln),(London_Koln,Trier_Trier_78r95v)),(Erfurt_Erfurt_13331400,Erfurt_Erfurt_1401)),((Madrid_Zaragoza,Rome_Wien),Rouen)),(Wien_812,Wien_Lilienveld)),Graz_Seckau),((((CeskeBudejovice,(Prage_XB11,Seitenstetten)),(Prague_IB7,Wien_4396)),Trier_Trier_211v_228r),(Mainz_Mainz,Wien_Essingen))),Graz_Murz)),(Brno_Rokycany,Klosterneuburg_Krems)),Wien_Wien),Munich_Raitenbuch),Kremsmunster_SteinbeiKrems);
+End;

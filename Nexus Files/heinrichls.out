@@ -1,0 +1,27 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Jul 11 22:36:15 2024]
+[!
+>Data file = heinrichi.nex
+>Heuristic search settings:
+>  Optimality criterion = distance (unweighted least squares (power=0))
+>    Negative branch lengths allowed, but set to zero for tree-score calculation
+>    Distance measure = mean character difference
+>    All characters have equal weight
+>  Starting tree(s) obtained via neighbor-joining
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 11059
+>  Score of best tree(s) found = 1.19367 (%SD=9.06488, g%SD=9.94754[k=71])
+>  Number of trees retained = 1
+>  Time used = 0.13 sec (CPU time = 0.02 sec)
+]
+tree 'PAUP_1' = [&U] (A,((((((((Ab,R),Ad),Z),G),(((((((Ae,S),W),(((Ba,V),(O,P)),N)),(Ca,F)),T),Be),(((Bb,Bd),(((C,E),((((Cc,Ce),Cd),(Da,(I,J))),Cf)),Cb)),(H,X)))),Ac),M),(K,L)),B);
+End;

@@ -1,0 +1,27 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Jul 11 00:03:23 2024]
+[!
+>Data file = parzival.nex
+>Heuristic search settings:
+>  Optimality criterion = distance (minimum evolution)
+>    Negative branch lengths allowed, but set to zero for tree-score calculation
+>    Distance measure = mean character difference
+>    All characters have equal weight
+>  Starting tree(s) obtained via neighbor-joining
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 1234
+>  Score of best tree(s) found = 0.38324
+>  Number of trees retained = 1
+>  Time used = 0.00 sec (CPU time = 0.00 sec)
+]
+tree 'PAUP_1' = [&U] (p1,(((((p10,p5),((p11,p8),(p14,p6))),(((p12,p13),(p15,p2)),p16)),p9),(p3,p7)),p4);
+End;

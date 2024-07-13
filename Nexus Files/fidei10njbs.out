@@ -1,0 +1,16 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Fri Jul 12 00:18:52 2024]
+[!
+>Data file = phareta_fidei_10.nex
+>Bootstrap method with neighbor-joining search:
+>  Number of bootstrap replicates = 100
+>  Starting seed = generated automatically
+>  Number of characters resampled in each replicate = 233
+>  Ties (if encountered) will be broken randomly
+>  Distance measure = mean character difference
+>  All characters have equal weight
+>  (Tree is unrooted)
+]
+tree 'PAUP_1' = [&U] (Brno_Rokycany:100,((Erfurt_Erfurt_13331400:100,(Rome_Wien:100,Rouen:100):75):66,Wien_Lilienveld:100):66,Graz_Seckau:100,(Klosterneuburg_Krems:100,Kremsmunste_SteinbeiKrems:100):79,(Munich_Raitenbuch:100,Wien_Essingen:100):52);
+End;

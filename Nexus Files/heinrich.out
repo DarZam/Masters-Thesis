@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Jul 11 21:46:47 2024]
+[!
+>Data file = heinrichi.nex
+>Neighbor-joining search settings:
+>  Ties (if encountered) will be broken systematically
+>  Distance measure = mean character difference
+>  All characters have equal weight
+>  (Tree is unrooted)
+]
+tree 'PAUP_1' = [&U] (A,((((((Ab,G),(Ad,Z)),(((((((Ae,S),W),T),((((Bb,Bd),Be),(((C,E),(Cb,((((Cc,Ce),Cd),(Da,(I,J))),Cf))),(H,X))),(Ca,F))),N),(Ba,(O,P))),(R,V))),Ac),M),(K,L)),B);
+End;

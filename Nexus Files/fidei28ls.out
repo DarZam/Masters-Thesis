@@ -1,0 +1,27 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Fri Jul 12 01:13:33 2024]
+[!
+>Data file = phareta_fidei_28.nex
+>Heuristic search settings:
+>  Optimality criterion = distance (unweighted least squares (power=0))
+>    Negative branch lengths allowed, but set to zero for tree-score calculation
+>    Distance measure = mean character difference
+>    All characters have equal weight
+>  Starting tree(s) obtained via neighbor-joining
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 6722
+>  Score of best tree(s) found = 0.01731 (%SD=6.18633, g%SD=6.34680[k=53])
+>  Number of trees retained = 1
+>  Time used = 0.05 sec (CPU time = 0.03 sec)
+]
+tree 'PAUP_1' = [&U] (Bamberg_Bamberg,(Berlin_Sulczmatt,((((((((Berlin_Trier,(London_Koln,Trier_Trier_78r95v)),Koln_Koln),(Erfurt_Erfurt_13331400,Erfurt_Erfurt_1401)),((Madrid_Zaragoza,Rome_Wien),Rouen)),(Graz_Seckau,(Wien_812,Wien_Lilienveld))),Graz_Murz),((Brno_Rokycany,(Klosterneuburg_Krems,((Kremsmunster_SteinbeiKrems,Munich_Raitenbuch),Wien_Wien))),(Mainz_Mainz,Wien_Essingen))),Trier_Trier_211v_228r)),(((CeskeBudejovice,(Prage_XB11,Seitenstetten)),Wien_4396),Prague_IB7));
+End;

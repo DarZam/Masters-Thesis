@@ -1,0 +1,16 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Jul 11 00:05:27 2024]
+[!
+>Data file = parzival.nex
+>Bootstrap method with neighbor-joining search:
+>  Number of bootstrap replicates = 100
+>  Starting seed = generated automatically
+>  Number of characters resampled in each replicate = 855
+>  Ties (if encountered) will be broken randomly
+>  Distance measure = mean character difference
+>  All characters have equal weight
+>  (Tree is unrooted)
+]
+tree 'PAUP_1' = [&U] (p1:100,(((((p10:100,p5:100):98,(p11:100,(p14:100,p6:100):64,p8:100):86):99,(((p12:100,p13:100):60,(p15:100,p2:100):72):78,p16:100):54):90,p9:100):75,(p3:100,p7:100):100):100,p4:100);
+End;

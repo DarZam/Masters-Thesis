@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Jul 11 22:32:17 2024]
+[!
+>Data file = heinrichi.nex
+>UPGMA search settings:
+>  Ties (if encountered) will be broken systematically
+>  Distance measure = mean character difference
+>  All characters have equal weight
+>  (Tree is rooted)
+]
+tree 'PAUP_1' = [&R] ((((((((((((A,B),(K,L)),Ac),M),((((((((Ab,(Ad,Z)),G),(R,V)),((Ba,(O,P)),N)),((Ae,S),W)),Be),(Ca,F)),(H,X))),T),(Bb,Bd)),Cb),(C,E)),Cf),((Cc,Ce),Cd)),(Da,(I,J)));
+End;

@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Jul 11 18:15:15 2024]
+[!
+>Data file = parzival.nex
+>UPGMA search settings:
+>  Ties (if encountered) will be broken systematically
+>  Distance measure = mean character difference
+>  All characters have equal weight
+>  (Tree is rooted)
+]
+tree 'PAUP_1' = [&R] ((((p1,p4),(((p10,p5),(p11,(p14,(p6,p8)))),((((p12,p13),p15),p2),(p7,p9)))),p16),p3);
+End;

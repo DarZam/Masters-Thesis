@@ -1,0 +1,16 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Jul 11 22:35:09 2024]
+[!
+>Data file = heinrichi.nex
+>Bootstrap method with UPGMA search:
+>  Number of bootstrap replicates = 100
+>  Starting seed = generated automatically
+>  Number of characters resampled in each replicate = 1090
+>  Ties (if encountered) will be broken randomly
+>  Distance measure = mean character difference
+>  All characters have equal weight
+>  (Tree is rooted)
+]
+tree 'PAUP_1' = [&R] ((((((((A:100,B:100,(K:100,L:100):100):79,Ac:100):54,M:100):95,((Ab:100,(Ad:100,Z:100):53):73,G:100):92,((Ae:100,S:100):74,W:100):100,((Ba:100,(O:100,P:100):55):84,N:100):85,(Bb:100,Bd:100):93,Be:100,(Ca:100,F:100):59,(H:100,X:100):100,(R:100,V:100):64,T:100):79,Cb:100):57,(C:100,E:100):100):70,Cf:100):79,(((Cc:100,Ce:100):100,Cd:100):100,(I:100,J:100):100):58,Da:100):100;
+End;

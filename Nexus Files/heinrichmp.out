@@ -1,0 +1,36 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Jul 11 22:50:07 2024]
+[!
+>Data file = heinrichi.nex
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 1090 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        147 characters are constant (proportion = 0.134862)
+>        281 variable characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 662
+>    Gaps are treated as "missing"
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: simple (reference taxon = A)
+>    Number of trees held at each step = 1
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Branches collapsed (creating polytomies) if maximum branch length is zero
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 38123
+>  Score of best tree(s) found = 5254
+>  Number of trees retained = 3
+>  Time used = 0.05 sec (CPU time = 0.02 sec)
+]
+tree 'PAUP_1' = [&U] (A,(((((Ab,R),(Ad,((((((Ae,(S,T)),W),(O,P)),(Ba,V)),((((Bb,Bd),Be),(Ca,F)),((((C,E),((Cb,Cf),(((Cc,Ce),(Da,(I,J))),Cd))),(H,X)),N))),Z))),G),Ac),(B,(K,L))),M);
+tree 'PAUP_2' = [&U] (A,(((((Ab,R),(Ad,((((((Ae,(S,T)),W),(O,P)),(Ba,V)),((((Bb,Bd),Be),(Ca,F)),((((C,E),((Cb,Cf),(((Cc,Ce),((Da,J),I)),Cd))),(H,X)),N))),Z))),G),Ac),(B,(K,L))),M);
+tree 'PAUP_3' = [&U] (A,(((((Ab,R),(Ad,((((((Ae,(S,T)),W),(O,P)),(Ba,V)),((((Bb,Bd),Be),(Ca,F)),((((C,E),((Cb,Cf),(((Cc,Ce),((Da,I),J)),Cd))),(H,X)),N))),Z))),G),Ac),(B,(K,L))),M);
+End;

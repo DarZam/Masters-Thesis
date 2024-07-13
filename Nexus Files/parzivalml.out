@@ -1,0 +1,45 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Jul 11 18:10:42 2024]
+[!
+>Data file = parzival.nex
+>Heuristic search settings:
+>  Optimality criterion = likelihood
+>    All characters have equal weight
+>    Likelihood settings:
+>                               Data type = standard
+>                       Exchangeabilities = Poisson/proportional model (OneST)
+>                       State frequencies = empirical: A=0.785009 B=0.181359 C=0.0242817 D=0.00844582 E=0.000754091 F=0.000150818
+>          Proportion of invariable sites = none
+>                 Rates at variable sites = equal
+>
+>      Number of distinct data patterns under this model = 150
+>      Molecular clock not enforced
+>      Starting branch lengths obtained using Rogers-Swofford approximation method
+>      Trees with approximate log likelihoods 5% or further from the target score are rejected without additional iteration
+>      Branch-length optimization = one-dimensional Newton-Raphson with pass limit=20, tolerance=1e-007
+>      Likelihood calculations performed in single precision
+>      Vector processing disabled (number of states does not map appropriately to vector architecture)
+>      Using standard Felsenstein pruning for computing likelihoods
+>      Conditional-likelihood rescaling threshold = 1e-020
+>
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: as-is
+>    Number of trees held at each step = 1
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Branches collapsed (creating polytomies) if branch length is less than or equal to 1e-008
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 2644
+>  Score of best tree(s) found = 2467.370
+>  Number of trees retained = 2
+>  Time used = 9.20 sec (CPU time = 3.58 sec)
+]
+tree 'PAUP_1' = [&U] (p1,(((((p10,p5),(p11,((p14,p6),p8))),((p12,(p15,p2)),p13,p16)),p9),(p3,p7)),p4);
+tree 'PAUP_2' = [&U] (p1,(((((p10,p5),(p11,((p14,p6),p8))),(((p12,(p15,p2)),p16),p13)),p9),(p3,p7)),p4);
+End;
